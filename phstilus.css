@@ -4,14 +4,14 @@
 	padding: 10px;
 	background-image: url(bg.png);
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	color: white;
+	color: black;
 }
 
 #tartalom{
 	width: 850px;
 	padding-left: 10px;
 	padding-right: 10px;
-	background-color: black;
+	background-color: white;
 }
 
 p{
